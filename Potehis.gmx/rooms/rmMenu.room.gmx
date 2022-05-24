@@ -56,8 +56,6 @@
     <instance objName="objMenu_shop" x="320" y="240" name="inst_E5BBBEDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMenu_tutorials" x="320" y="320" name="inst_7F77B22B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMenu_exit" x="320" y="416" name="inst_8D6E00DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objMenu_g" x="64" y="144" name="inst_53084D74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="objMenu_f" x="64" y="224" name="inst_158F2E7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMenu_info" x="64" y="64" name="inst_8E53882E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMenu_options" x="576" y="64" name="inst_588B9EED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="objMenu_particles" x="320" y="160" name="inst_9A4311CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

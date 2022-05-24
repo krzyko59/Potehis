@@ -86,7 +86,8 @@ x=-objMenu_start.xx+x_me
             <string>if active
 {
 with(all) active=false
-room_goto(rmTutorial)
+//room_goto(rmTutorial)
+show_message("Shop will be available in the next update")
 }
 </string>
           </argument>
