@@ -2,6 +2,7 @@
 ![potehis logo](https://github.com/krzyko59/Potehis/blob/main/potehis_icon.png?raw=true)<br />
 Platformówka - Sterowanie 2 postaciami na raz na split screenie<br />
 Wall jumping, przyklejanie się do ścian, rozpędzanie-zwalnianie postaci<br />
+40 trudnych poziomów, 4 bardzo trudne poziomy<br />
 ## 
 **SILNIK:** GAMEMAKER STUDIO<br />
 **DOCELOWA PLATFORMA:** ANDROID<br />
