@@ -1,5 +1,5 @@
 # Potehis
-<img src="https://github.com/krzyko59/Potehis/blob/main/potehis_icon.png?raw=true" alt="potehis logo" width="320"/>
+<img src="https://github.com/krzyko59/Potehis/blob/main/potehis_icon.png" alt="potehis logo" width="320" /></html><br />
 Platformówka - Sterowanie 2 postaciami na raz na split screenie<br />
 Wall jumping, przyklejanie się do ścian, rozpędzanie-zwalnianie postaci<br />
 40 trudnych poziomów, 4 bardzo trudne poziomy<br />
